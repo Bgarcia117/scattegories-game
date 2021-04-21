@@ -9,10 +9,9 @@ function App() {
       <div className='App-Section-One'>
           <Letter />
           <Timer />
-          <Categories />
       </div>
       <div className='App-Section-Two'>
-
+          <Categories />
       </div>
     </div>
   );
